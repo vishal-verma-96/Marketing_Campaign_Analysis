@@ -24,12 +24,12 @@ marketing-campaign-analysis/
 ├── marketing_data.csv
 ├── analysis.ipynb
 ├── images/
-│   ├── income_spending_product.png
-│   ├── age_response_pattern.png
-│   ├── customer_acceptance.png
-│   ├── spending_vs_household.png
-│   ├── sales_distribution.png
-│   └── education_complaint_customer.png
+│ ├── income_spending_product.png
+│ ├── age_response_pattern.png
+│ ├── customer_acceptance.png
+│ ├── spending_vs_household.png
+│ ├── sales_distribution.png
+│ └── education_complaint_customer.png
 └── README.md
 
 ---
