@@ -18,7 +18,7 @@ Using **Seaborn** and **Plotly**, interactive and static visualizations reveal h
 
 ## 📂 Project Structure
 
-```plaintext
+```
 📁 marketing-campaign-analysis/
 ├── 📄 marketing_data.csv
 ├── 📄 analysis.ipynb
@@ -30,7 +30,7 @@ Using **Seaborn** and **Plotly**, interactive and static visualizations reveal h
 │   ├── 📄 sales_distribution.png
 │   └── 📄 education_complaint_customer.png
 └── 📄 README.md
-
+```
 ---
 
 📥 Dataset
