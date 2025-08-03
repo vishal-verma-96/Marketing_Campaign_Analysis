@@ -19,21 +19,51 @@ Using **Seaborn** and **Plotly**, interactive and static visualizations reveal h
 ## 📂 Project Structure
 
 - 📁 **marketing-campaign-analysis/**
-  - 📄 `marketing_data.csv` - Raw marketing campaign data
-  - 📄 `analysis.ipynb` - Jupyter notebook with analysis
-  - 📁 **images/** - Generated visualizations
+  - 📄 `marketing_data.csv` 
+  - 📄 `analysis.ipynb` 
+  - 📁 **images/** 
     - 📊 `income_spending_product.png`
     - 📊 `age_response_pattern.png`
     - 📊 `customer_acceptance.png`
     - 📊 `spending_vs_household.png`
     - 📊 `sales_distribution.png`
     - 📊 `education_complaint_customer.png`
-  - 📄 `README.md` - Project documentation
+  - 📄 `README.md` (You 🫵 are here!)
 
 ---
 
-📥 Dataset
-The dataset is available here.
+📥 Dataset Features:
+
+| Variable              |	                                         Description                                        |
+|-----------------------|---------------------------------------------------------------------------------------------|
+| ID                    | Customer's unique identifier                                 |
+|Year_Birth             |	Customer's birth year                                        |
+| Education	            | Customer's education level                                   |
+| Marital_Status        | Customer's marital status                                    |
+| Income                | Customer's yearly household income                           |
+| Kidhome               | number of small children in customer's household number of teenagers in customer's household |
+| Teenhome              | Number of teenagers in customer's house                       |
+| Dt_Customer           | Date of customer's enrollment with the company                |
+| Recency               | Number of days since the last purchase                        |
+| MntWines              | Amount spent on wine in last 2 years                          |
+| MntFruits             | Amount spent on fruits in last 2 years                        |
+| MntMeatProducts       | Amount spent on meat products in last 2 years                 |
+| MntFishProducts       | Amount spent on fish products in last 2 years                 |
+| MntSweetProducts      | Amount spent on sweet products in last 2 years                |
+| MntGoldProds          | Amount spent on gold in last 2 years                          |
+| NumDealsPurchases     | Number of purchases made with discount                        |
+| NumWebPurchases       | Number of purchases made through company's website            |
+| NumCatalogPurchases   | Number of purchases made using catalog                        |
+| NumStorePurchases     | Number of purchases made directly in store                    |
+| NumWebVisitsMonth     | Number of visits to company's website in the last month       |
+| AcceptedCmp1          | 1 if the customer accepted the 1st campaign, 0 otherwise      |
+| AcceptedCmp2          | 1 if the customer accepted the 2nd campaign, 0 otherwise      |
+| AcceptedCmp3          | 1 if the customer accepted the 3rd campaign, 0 otherwise      |
+| AcceptedCmp4          | 1 if the customer accepted the 4th campaign, 0 otherwise      |
+| AcceptedCmp5          | 1 if the customer accepted the 5th campaign, 0 otherwise      |
+| Response              | 1 if the customer accepted the last campaign, 0 otherwise     |
+| Complain              | 1 if customer complained in the last 2 years                  |
+| Country               | Customer's location                                           |
 
 ---
 
