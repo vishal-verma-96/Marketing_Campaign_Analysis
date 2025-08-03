@@ -65,6 +65,7 @@ Using **Seaborn** and **Plotly**, interactive and static visualizations reveal h
 | Complain              | 1 if customer complained in the last 2 years                  |
 | Country               | Customer's location                                           |
 
+and the dataset already in the current repository.
 ---
 
 ## 📊 Sample Visualization
