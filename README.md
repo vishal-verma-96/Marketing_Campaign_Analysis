@@ -71,9 +71,7 @@ and the dataset already in the current repository.
 
 ## 🖼️ Sample Visualization
 
-#### 📊 Distribution of spending on Various Product
-
-![income_spending_product.png](https://github.com/vishal-verma-96/Marketing_Campaign_Analysis/blob/59ea013bfbff5beca9713bb3c415eeea78355a86/income_spending_product.png))
+![income_spending_product.png](https://github.com/vishal-verma-96/Marketing_Campaign_Analysis/blob/59ea013bfbff5beca9713bb3c415eeea78355a86/income_spending_product.png)
 
 ---
 
