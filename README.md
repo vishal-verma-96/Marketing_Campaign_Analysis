@@ -66,6 +66,7 @@ Using **Seaborn** and **Plotly**, interactive and static visualizations reveal h
 | Country               | Customer's location                                           |
 
 and the dataset already in the current repository.
+
 ---
 
 ## 📊 Sample Visualization
