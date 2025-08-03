@@ -69,11 +69,11 @@ and the dataset already in the current repository.
 
 ---
 
-## 📊 Sample Visualization
+## 🖼️ Sample Visualization
 
-### 🎯 Age Group vs Campaign Response Proportion
+#### 📊 Distribution of spending on Various Product
 
-![Age Group vs Response](images/age_response_plot.png)
+![income_spending_product.png](https://github.com/vishal-verma-96/Marketing_Campaign_Analysis/blob/59ea013bfbff5beca9713bb3c415eeea78355a86/income_spending_product.png))
 
 ---
 
@@ -96,6 +96,8 @@ and the dataset already in the current repository.
 - Spending tends to decrease as the number of children increases.
 - Majority of the individuals preffered offline shopping
 
+---
+
 ## 📈 Hypotheses Tested
 
 - H1: Older people are not as tech-savvy and prefer shopping in-store. ✅
@@ -103,11 +105,15 @@ and the dataset already in the current repository.
 - H3: Other channels cannibalize store purchases. ❌
 - H4: US fares significantly better than the rest of the world in total purchases.❌
 
+---
+
 ## 🙌 Author
 
 **Vishal Verma**<br/>
 🔎 Passionate about Data Visualization, Data Science, and Artificial Intelligence<br/>
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/vishalds/)
+
+---
 
 ## ⭐ Final Note
 
